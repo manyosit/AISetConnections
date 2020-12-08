@@ -1,7 +1,7 @@
 # Atrium Integrator Connection - workaround to stop the pain!
 
 
-If you are using Atrium Integrator in your ITSM System I'm sure you already had issues with you connections.
+If you are using Atrium Integrator in your ITSM System I'm sure you already had issues with connections.
 Maybe you also made the mistake and you created more than one connection, for each of your environments [dev,qa,prod] and ended up in changing all the connections for each step, while staging them to another environment
 
 At on premise system it already helps, if you are using one connection with the same name in all stages, and your Spoon UI is configured to not overwriting connection while importing  transformations. (which need to be set in every single Spoon UI)
