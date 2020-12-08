@@ -1,6 +1,5 @@
-# AISetConnections
+# Atrium Integrator Connection - workaround to stop the pain!
 
-Atrium Integrator Connection - workaround to stop the pain!
 
 If you are using Atrium Integrator in your ITSM System I'm sure you already had issues with you connections.
 Maybe you also made the mistake and you created more than one connection, for each of your environments [dev,qa,prod] and ended up in changing all the connections for each step, while staging them to another environment
