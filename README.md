@@ -39,7 +39,7 @@ add your devlopment hostnames into the javascript step:
 
 
 # IMPORTANT:
-#This transformation need to be the first transformation in each job. To set the connection corret for serverside executions.  In your local dev system after opening spoon you should run this transformation to set your connections.
+## This transformation need to be the first transformation in each job. To set the connection corret for serverside executions.  In your local dev system after opening spoon you should run this transformation to set your connections.
 
 
 You can run it locally, on your client gateway, or on your server, on DEV, QA, Prod stage it doesn't matter - no more need to change connection. If you set up once.
