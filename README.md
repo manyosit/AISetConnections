@@ -13,7 +13,7 @@ Means if you have a transformation, which for example 5 AR Input/AR Output,CMDB 
 
 It's not hard to see that this will cause big problems, because maybe you will forget of one or to steps.
 
-#How to get this solved?
+# How to get this solved?
 
 I've created a transformation which set all your connections, depending on the system you run the transformations, by using variables.
 
@@ -38,7 +38,7 @@ add your devlopment hostnames into the javascript step:
 
 
 
-#IMPORTANT:
+# IMPORTANT:
 #This transformation need to be the first transformation in each job. To set the connection corret for serverside executions.  In your local dev system after opening spoon you should run this transformation to set your connections.
 
 
